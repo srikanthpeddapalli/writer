@@ -1,0 +1,1 @@
+To add staging area in the git we want to use the git add commandcog
