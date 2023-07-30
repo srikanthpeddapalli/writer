@@ -1,2 +1,6 @@
 we can cotrol the current code using the git
 git checkout command helps to swift master branch to new branch
+we can use fork to take copy the another open source code
+then we can do changes in the local directory
+then we can commit our changes to our remote directory that is github
+if we want to show the code that we commited to the original person then we can use the pull requests

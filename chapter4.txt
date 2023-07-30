@@ -1,0 +1,1 @@
+Github is the open source platform that we can store our code remote and contribute to the open source projects
