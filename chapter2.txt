@@ -1,1 +1,2 @@
-To add staging area in the git we want to use the git add commandcog
+To add staging area in the git we want to use the git add command
+git branch command helps to create new branch
